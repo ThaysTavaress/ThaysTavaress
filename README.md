@@ -23,4 +23,5 @@
 📲 Minhas Redes Sociais:
 
 Instagram: _thaysstavares
+
 Tiktok: thaystavares._
