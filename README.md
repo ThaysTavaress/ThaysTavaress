@@ -1,16 +1,26 @@
-## Hi there 👋
+# ✨ Olá, eu sou a Thays! 👋🏽
 
-<!--
-**ThaysTavaress/ThaysTavaress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎒 Estudante, explorando o mundo da tecnologia.
+🎓  IFCE - Campus Maranguape 
 
-Here are some ideas to get you started:
+## 🎯 O que estou estudando  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Programação Orientada a Objetos (POO) - conceitos de classes, objetos, herança...  
+📌 Web 1 – HTML, CSS, JavaScript básico e como construir páginas da web.
+📌 Engenharia de Software - desenvolvimento de sistemas, arquitetura de software, design patterns e metodologias ágeis.
+
+### 📚 Já estudei:  
+✔ **PEST e IP** – protocolos e configurações de rede  
+✔ **Redes de Computadores** – modelos de rede, roteamento e conexões  
+✔ **Sistemas Embarcados** – dispositivos inteligentes e programação em hardware  
+✔ **Sistemas Operacionais (S.O)** – como funcionam o Windows, Linux e outros  
+
+---
+
+📬 **Quer falar comigo?**  
+📧 [E-mail: tavaresthays195@gmail.com]
+
+📲 Minhas Redes Sociais:
+
+Instagram: _thaysstavares
+Tiktok: thaystavares._
