@@ -7,7 +7,9 @@
 
 📌 Programação Orientada a Objetos (POO) - conceitos de classes, objetos, herança...  
 📌 Web 1 – HTML, CSS, JavaScript básico e como construir páginas da web.
-       📌 Engenharia de Software - desenvolvimento de sistemas, arquitetura de software, design patterns e metodologias ágeis.
+
+📌 Engenharia de Software - desenvolvimento de sistemas, arquitetura de software, design patterns e metodologias ágeis.
+
 
 ### 📚 Já estudei:  
 ✔ **PEST e IP** – protocolos e configurações de rede  
