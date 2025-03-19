@@ -28,4 +28,4 @@ Instagram: _thaysstavares
 
 Tiktok: thaystavares._
 
-https://raw.githubusercontent.com/lima300/lima300/output/snake.svg
+
